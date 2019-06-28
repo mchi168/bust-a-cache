@@ -6,7 +6,7 @@
 
 NOTE: third param is String that represents implemented EvictionPolicy interface.
 
-If your EvictionPolicy class is called Apple
+If your EvictionPolicy class is called 'Apple'
 Supply argument as "Apple".
 
 Java must 'know' about the class. Must exist somewhere in classpath; within context of application.
